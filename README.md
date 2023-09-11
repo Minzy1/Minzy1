@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minzy1 aka Marcel
 - 👀 I’m interested in Games, Outdoor & Sport
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking for a fun job for the my future
+- 💞️ I’m looking for a fun job in the future
 - 📫 How to reach me LinkedIn
 
 <!---
